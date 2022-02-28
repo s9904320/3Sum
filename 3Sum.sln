@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3Sum", "3Sum\3Sum.csproj", "{52346D03-0C23-4BE3-B908-6D899809936A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3SumTests", "3SumTests\3SumTests.csproj", "{408EEF94-0B1E-408E-8869-ADC5DDC87941}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52346D03-0C23-4BE3-B908-6D899809936A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52346D03-0C23-4BE3-B908-6D899809936A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52346D03-0C23-4BE3-B908-6D899809936A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52346D03-0C23-4BE3-B908-6D899809936A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{408EEF94-0B1E-408E-8869-ADC5DDC87941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{408EEF94-0B1E-408E-8869-ADC5DDC87941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{408EEF94-0B1E-408E-8869-ADC5DDC87941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{408EEF94-0B1E-408E-8869-ADC5DDC87941}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D902233A-AEC7-4640-AC9A-957F9B05F8F7}
+	EndGlobalSection
+EndGlobal
